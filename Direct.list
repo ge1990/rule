@@ -2,6 +2,7 @@
 #icloud
 DOMAIN, gateway.icloud.com
 DOMAIN, metrics.icloud.com
+DOMAIN,gimy.tv
 #XPTV封面来源
 #小海报
 DOMAIN-SUFFIX, doubanio.com
