@@ -2,6 +2,7 @@
 DOMAIN,googleapis.cn
 DOMAIN,googleapis.com
 DOMAIN,xn--ngstr-lra8j.com
+DOMAIN,dash.cloudflare.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
