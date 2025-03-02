@@ -5,6 +5,8 @@ DOMAIN, metrics.icloud.com
 DOMAIN, gimy.tv
 DOMAIN-SUFFIX, gimy.tv
 #XPTV封面来源
+#LOL
+DOMAIN-SUFFIX,riotgames.com
 #小海报
 DOMAIN-SUFFIX, doubanio.com
 #大封面
