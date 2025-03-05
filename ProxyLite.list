@@ -4,6 +4,10 @@ DOMAIN,googleapis.com
 DOMAIN,xn--ngstr-lra8j.com
 DOMAIN,dash.cloudflare.com
 DOMAIN,github.githubassets.com
+DOMAIN,185.199.108.154
+DOMAIN,185.199.109.154
+DOMAIN,185.199.110.154
+DOMAIN,185.199.111.154
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
