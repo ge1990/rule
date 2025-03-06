@@ -1,12 +1,16 @@
-# 直连补充列表(国内域名不解析时，防止走代理使用)
+DOMAIN, gimy.tv
+DOMAIN-SUFFIX, gimy.tv
+#LOL
+DOMAIN-SUFFIX,riotgames.com
+
+# 直连补充列表(国内域名不解析时，防止走代理使用) 
+DOMAIN-SUFFIX, xptvhelper.link
+#XPTV主站-部分地区可以直连自行尝试
+DOMAIN, infuseku.xyz
 #icloud
 DOMAIN, gateway.icloud.com
 DOMAIN, metrics.icloud.com
-DOMAIN, gimy.tv
-DOMAIN-SUFFIX, gimy.tv
 #XPTV封面来源
-#LOL
-DOMAIN-SUFFIX,riotgames.com
 #小海报
 DOMAIN-SUFFIX, doubanio.com
 #大封面
